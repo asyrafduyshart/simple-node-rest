@@ -1,0 +1,22 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "Simple Rest API for learning",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^4.9.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Simple",
+    "Rest",
+    "API"
+  ],
+  "author": "Asyraf Duyshart",
+  "license": "MIT"
+}
